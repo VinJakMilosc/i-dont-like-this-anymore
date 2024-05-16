@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(205, 187, 221);
+    text-align: center;
+}
+
+.centered-png-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.centered-png {
+    width: 350px;
+    height: 35♦0px;
+  }
+
+h1 {
+    -webkit-text-fill-color: midnightblue;
+    font-style: italic ;
+}
+
+h2 {
+    -webkit-text-fill-color:royalblue;
+}
+
+.home {
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    height: 50px;
+    width: 50px;
+}
+
+p {
+    -webkit-text-stroke-color: black;
+}
+
+.przepis {
+    background-color: rgb(175, 150, 197);
+    font-size: larger;
+}
+
+.user-png-container {
+    display: flex;
+    justify-content: right;
+    text-align: right;  
+}
+.user-png {
+    width: 50px;
+    height: 50px;
+}
+
+h3 {
+    -webkit-text-stroke-color: rgb(77, 0, 133);
+}
+
+
